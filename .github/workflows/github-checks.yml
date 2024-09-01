@@ -2,7 +2,7 @@ name: github-checks
 on:
   pull_request:
     branches:
-      - main
+      - master
 
 jobs:
   code-style:
